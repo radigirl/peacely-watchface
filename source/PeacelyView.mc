@@ -33,10 +33,15 @@ class PeacelyView extends WatchUi.WatchFace {
     }
 
     function drawBackground(dc as Dc) as Void {
-        var backgroundColor = getBackgroundColor();
-        dc.setColor(backgroundColor, backgroundColor);
-        dc.clear();
+    var backgroundColor = getBackgroundColor();
+    dc.setColor(backgroundColor, backgroundColor);
+    dc.clear();
+
+    if (currentTheme == THEME_SAGE) {
+        var background = WatchUi.loadResource(Rez.Drawables.SageBackground) as BitmapResource;
+        dc.drawBitmap(0, 0, background);
     }
+}
 
     function getBackgroundColor() as Number {
         if (currentTheme == THEME_WARM) {
