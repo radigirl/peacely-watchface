@@ -1,17 +1,36 @@
 # Peacely
 
-Peacely is a minimal Garmin watch face designed for calm, clarity, and quick everyday glances.
+A calm Garmin watch face inspired by nature, mindfulness, and simplicity.
 
-## Current status
+## Features
 
-- Garmin Connect IQ project created
-- Venu 2 Plus selected as first target device
-- Default watch face builds successfully
-- Runs in the Connect IQ simulator
+- Large readable time
+- Battery percentage
+- Daily step count
+- Multiple calming themes
+- Battery-friendly design
 
-## Planned direction
+## Themes
 
-- Minimal time-first layout
-- Battery, date, and steps
-- Sage, warm, and dark themes
-- Later support for more Garmin devices
+### Sage
+Soft green nature-inspired theme.
+
+### Warm
+Warm paper-inspired theme.
+
+### Night
+Dark relaxing theme for low-light environments.
+
+## Device Support
+
+Currently targeting:
+
+- Garmin Venu 2 Plus
+
+## Screenshots
+
+Coming soon.
+
+## Status
+
+🚧 In development

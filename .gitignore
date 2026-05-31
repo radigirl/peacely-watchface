@@ -1,9 +1,15 @@
+# Garmin build output
 bin/
-*.prg
-*.prg.debug.xml
+gen/
+internal-mir/
 
-# Garmin developer keys - never commit
-*.der
+# Garmin developer keys
 developer_key
-developer_key.*
-GarminKeys/
+*.key
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
