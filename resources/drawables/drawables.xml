@@ -1,3 +1,10 @@
-<drawables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+<drawables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+
     <bitmap id="LauncherIcon" filename="launcher_icon.svg" dithering="none" />
+
+    <bitmap id="StepsSage" filename="steps_sage.png" />
+    <bitmap id="StepsWarm" filename="steps_warm.png" />
+    <bitmap id="StepsNight" filename="steps_night.png" />
+
 </drawables>
