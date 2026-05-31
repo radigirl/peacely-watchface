@@ -1,0 +1,9 @@
+bin/
+*.prg
+*.prg.debug.xml
+
+# Garmin developer keys - never commit
+*.der
+developer_key
+developer_key.*
+GarminKeys/
