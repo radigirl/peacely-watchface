@@ -1,0 +1,23 @@
+<settings>
+    <setting propertyKey="@Properties.theme" title="Theme">
+        <settingConfig type="list">
+            <listEntry value="0">Sage</listEntry>
+            <listEntry value="1">Warm</listEntry>
+            <listEntry value="2">Night</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.metric" title="Bottom Metric">
+        <settingConfig type="list">
+            <listEntry value="0">Steps</listEntry>
+            <listEntry value="1">Heart Rate</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.timeFormat" title="Time Format">
+        <settingConfig type="list">
+            <listEntry value="0">24-hour</listEntry>
+            <listEntry value="1">12-hour</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

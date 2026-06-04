@@ -20,13 +20,14 @@
             Use "Monkey C: Edit Permissions" from the Visual Studio Code command
             palette to update permissions.
         -->
-        <iq:permissions/>
+        <iq:permissions>
+            <iq:uses-permission id="SensorHistory"/>
+        </iq:permissions>
         <!--
             Use "Monkey C: Edit Languages" from the Visual Studio Code command
             palette to edit your compatible language list.
         -->
         <iq:languages>
-            <iq:language>bul</iq:language>
             <iq:language>eng</iq:language>
         </iq:languages>
         <!--

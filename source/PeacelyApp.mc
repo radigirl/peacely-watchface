@@ -1,6 +1,8 @@
 import Toybox.Application;
 import Toybox.Lang;
 import Toybox.WatchUi;
+import Toybox.Application;
+
 
 class PeacelyApp extends Application.AppBase {
 
