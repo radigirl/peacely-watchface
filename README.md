@@ -4,6 +4,12 @@ A calm Garmin watch face inspired by nature, mindfulness, and simplicity.
 
 Peacely is designed to feel soft, readable, and peaceful on the wrist, combining watercolor-style backgrounds, minimal typography, and a clean wellness-focused layout.
 
+## Connect IQ Store
+
+Download Peacely on the Garmin Connect IQ Store:
+
+https://apps.garmin.com/apps/a7d2ff5a-2d35-4041-8921-10413ea4c20f
+
 ## Features
 
 * Large, easy-to-read time display
@@ -62,7 +68,9 @@ Support for additional Garmin devices may be added in future updates.
 
 ## Status
 
-✅ Beta tested on a real Garmin Venu 2 Plus
+✅ Available on the Garmin Connect IQ Store
+
+✅ Tested on a real Garmin Venu 2 Plus
 
 ### Verified Functionality
 
@@ -77,4 +85,4 @@ Support for additional Garmin devices may be added in future updates.
 
 - Additional Garmin device support after testing and asset optimization
 - Optional visual refinements based on user feedback
-- Connect IQ Store approval and public release
+- Continued refinement based on real-world usage
