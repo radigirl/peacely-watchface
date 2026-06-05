@@ -39,37 +39,27 @@ Peacely includes the following configurable options:
 
 ## Device Support
 
-### Currently Supported
+Currently tested and supported on:
 
-Peacely is currently tested and supported on:
+- Garmin Venu 2 Plus
+- Garmin Venu 2
+- Garmin Venu 2S
 
-* Garmin Venu 2 Plus
-* Garmin Venu 2
-* Garmin Venu 2S
-
-### Future Device Support
-
-Additional device support may be added in future releases, including:
-
-* Garmin Venu 3
-* Garmin Venu 3S
-* Garmin Vivoactive 5
-
-Future devices will be added after layout, readability, and functionality have been verified.
+Support for additional Garmin devices may be added in future updates.
 
 ## Screenshots
 
 ### Sage
 
-![Peacely Sage](docs/screenshots/peacely-sage.jpg)
+![Peacely Sage](docs/screenshots/peacely-sage.png)
 
 ### Warm
 
-![Peacely Warm](docs/screenshots/peacely-warm.jpg)
+![Peacely Warm](docs/screenshots/peacely-warm.png)
 
 ### Night
 
-![Peacely Night](docs/screenshots/peacely-night.jpg)
+![Peacely Night](docs/screenshots/peacely-night.png)
 
 ## Technology
 
