@@ -2,57 +2,97 @@
 
 A calm Garmin watch face inspired by nature, mindfulness, and simplicity.
 
-Peacely is designed to feel soft, readable, and peaceful on the wrist, with watercolor-style backgrounds, minimal typography, and gentle wellness-focused themes.
+Peacely is designed to feel soft, readable, and peaceful on the wrist, combining watercolor-style backgrounds, minimal typography, and a clean wellness-focused layout.
 
 ## Features
 
-- Large readable time
-- Battery percentage
-- Daily step count
-- Optional heart-rate metric
-- 24-hour and 12-hour time format support
-- Three calming visual themes
-- Lightweight minimalist layout
+* Large, easy-to-read time display
+* Battery percentage indicator
+* Daily step count
+* Optional heart-rate metric
+* 24-hour and 12-hour time format support
+* Three calming visual themes
+* Lightweight minimalist design
+* Configurable settings through the Garmin Connect IQ app
 
 ## Themes
 
 ### Sage
-Soft green nature-inspired theme.
+
+A soft green theme inspired by nature and everyday calm.
 
 ### Warm
-Warm paper-inspired theme.
+
+A warm paper-inspired theme with gentle contrast.
 
 ### Night
-Dark relaxing theme for low-light environments.
+
+A dark theme designed for low-light environments and reduced visual distraction.
 
 ## Settings
 
-Planned configurable options:
+Peacely includes the following configurable options:
 
-- Theme: Sage, Warm, Night
-- Bottom Metric: Steps or Heart Rate
-- Time Format: 24-hour or 12-hour
+* Theme: Sage, Warm, Night
+* Bottom Metric: Steps or Heart Rate
+* Time Format: 24-hour or 12-hour
 
 ## Device Support
 
-Currently targeting:
+### Currently Supported
 
-- Garmin Venu 2 Plus
-- Garmin Venu 2
-- Garmin Venu 2S
+Peacely is currently tested and supported on:
 
-Future support planned:
+* Garmin Venu 2 Plus
+* Garmin Venu 2
+* Garmin Venu 2S
 
-- Garmin Venu 3
-- Garmin Venu 3S
-- Garmin Vivoactive 5
+### Future Device Support
 
-These require regenerated 454x454 background assets for best visual quality.
+Additional device support may be added in future releases, including:
+
+* Garmin Venu 3
+* Garmin Venu 3S
+* Garmin Vivoactive 5
+
+Future devices will be added after layout, readability, and functionality have been verified.
 
 ## Screenshots
 
-Coming soon.
+### Sage
+
+![Peacely Sage](docs/screenshots/peacely-sage.jpg)
+
+### Warm
+
+![Peacely Warm](docs/screenshots/peacely-warm.jpg)
+
+### Night
+
+![Peacely Night](docs/screenshots/peacely-night.jpg)
+
+## Technology
+
+* Monkey C
+* Garmin Connect IQ SDK
+* Garmin Venu 2 Series
+* Visual Studio Code
 
 ## Status
 
-🚧 In development
+✅ Beta tested on a real Garmin Venu 2 Plus
+
+### Verified Functionality
+
+* Theme switching
+* Steps metric
+* Heart-rate metric
+* 24-hour and 12-hour time formats
+* Garmin Connect IQ settings integration
+* Real-device installation and synchronization
+
+## Roadmap
+
+* Additional Garmin device support
+* Further visual polish based on real-world usage
+* Public Garmin Connect IQ Store release
