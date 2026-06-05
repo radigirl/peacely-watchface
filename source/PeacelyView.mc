@@ -94,16 +94,16 @@ var currentTimeFormat = 0;
     }
 
     function getPrimaryTextColor() as Number {
-        if (currentTheme == THEME_WARM) {
-            return 0x5A351E;
-        }
-
-        if (currentTheme == THEME_NIGHT) {
-            return 0xC8C9CC;
-        }
-
-        return 0x243428;
+    if (currentTheme == THEME_WARM) {
+        return 0x8A6C4D;
     }
+
+    if (currentTheme == THEME_NIGHT) {
+        return 0xC8C9CC;
+    }
+
+    return 0x4A5B4D;
+}
 
     function getSecondaryTextColor() as Number {
         if (currentTheme == THEME_WARM) {

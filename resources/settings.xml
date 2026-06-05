@@ -1,5 +1,5 @@
 <settings>
-    <setting propertyKey="@Properties.theme" title="Theme">
+    <setting propertyKey="@Properties.theme" title="@Strings.ThemeTitle">
         <settingConfig type="list">
             <listEntry value="0">Sage</listEntry>
             <listEntry value="1">Warm</listEntry>
@@ -7,14 +7,14 @@
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.metric" title="Bottom Metric">
+    <setting propertyKey="@Properties.metric" title="@Strings.MetricTitle">
         <settingConfig type="list">
             <listEntry value="0">Steps</listEntry>
             <listEntry value="1">Heart Rate</listEntry>
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.timeFormat" title="Time Format">
+    <setting propertyKey="@Properties.timeFormat" title="@Strings.TimeFormatTitle">
         <settingConfig type="list">
             <listEntry value="0">24-hour</listEntry>
             <listEntry value="1">12-hour</listEntry>
