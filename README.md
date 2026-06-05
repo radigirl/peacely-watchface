@@ -49,15 +49,9 @@ Support for additional Garmin devices may be added in future updates.
 
 ## Screenshots
 
-<p align="center">
-  <img src="docs/screenshots/peacely-sage.png" width="220" alt="Peacely Sage">
-  <img src="docs/screenshots/peacely-warm.png" width="220" alt="Peacely Warm">
-  <img src="docs/screenshots/peacely-night.png" width="220" alt="Peacely Night">
-</p>
-
-<p align="center">
-  <strong>Sage</strong> • <strong>Warm</strong> • <strong>Night</strong>
-</p>
+| Sage | Warm | Night |
+|------|------|------|
+| <img src="docs/screenshots/peacely-sage.png" width="180" alt="Peacely Sage"> | <img src="docs/screenshots/peacely-warm.png" width="180" alt="Peacely Warm"> | <img src="docs/screenshots/peacely-night.png" width="180" alt="Peacely Night"> |
 
 ## Technology
 
