@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
     <iq:application
-        id="f165fa9c-cca0-47ec-a8e6-8b2f2e69ae5f"
+        id="8d4c5a8e-2c8d-4d0e-b9cb-4a0c7e9e2d91"
         type="watchface"
         name="@Strings.AppName"
         entry="PeacelyApp"

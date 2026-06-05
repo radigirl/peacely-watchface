@@ -75,6 +75,6 @@ Support for additional Garmin devices may be added in future updates.
 
 ## Roadmap
 
-* Additional Garmin device support
-* Further visual polish based on real-world usage
-* Public Garmin Connect IQ Store release
+- Additional Garmin device support after testing and asset optimization
+- Optional visual refinements based on user feedback
+- Connect IQ Store approval and public release
